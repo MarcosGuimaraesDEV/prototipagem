@@ -1,0 +1,5 @@
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\vendasProjeto.exe
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\vendasProjeto.dll
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\vendasProjeto.deps.json
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\vendasProjeto.runtimeconfig.json
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\vendasProjeto.pdb

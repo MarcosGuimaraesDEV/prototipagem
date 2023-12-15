@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vendasProjeto", "vendasProjeto\vendasProjeto.csproj", "{9BE0BA50-A213-4150-BB13-DC4784E4C22E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vendasProjeto", "vendasProjeto\vendasProjeto.csproj", "{9BE0BA50-A213-4150-BB13-DC4784E4C22E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hawk instalador", "vendasProjeto\Hawk instalador\Hawk instalador.vdproj", "{A396EDFE-22AF-49B7-B71A-961E508069BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{9BE0BA50-A213-4150-BB13-DC4784E4C22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE0BA50-A213-4150-BB13-DC4784E4C22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE0BA50-A213-4150-BB13-DC4784E4C22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A396EDFE-22AF-49B7-B71A-961E508069BE}.Debug|Any CPU.ActiveCfg = Debug
+		{A396EDFE-22AF-49B7-B71A-961E508069BE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,6 +4,9 @@ E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\De
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Debug\net6.0-windows\vendasProjeto.dll
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Debug\net6.0-windows\vendasProjeto.pdb
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.Properties.Resources.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.TelaInicial.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.telaLogin.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.TelaVenda.resources
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.csproj.GenerateResource.cache
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.GeneratedMSBuildEditorConfig.editorconfig
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.AssemblyInfoInputs.cache
@@ -14,6 +17,3 @@ E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\De
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.pdb
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.genruntimeconfig.cache
 E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\ref\vendasProjeto.dll
-E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.TelaInicial.resources
-E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.telaLogin.resources
-E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\net6.0-windows\vendasProjeto.TelaVenda.resources

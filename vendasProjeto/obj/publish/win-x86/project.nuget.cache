@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/u92PxFUPAQOha6YpGkuQc4hmy2ZbuBbMT0kzGWy53AZB+Zsq6omUgvGPIZMbqsBhmVLlsGoVUQDk+XRaB+Vg==",
+  "success": true,
+  "projectFilePath": "E:\\Documentos\\Projetos_desenvolvimento\\cSharp\\vendasProjeto\\vendasProjeto\\vendasProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.21\\microsoft.netcore.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.21\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.21\\microsoft.aspnetcore.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.21\\microsoft.netcore.app.crossgen2.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

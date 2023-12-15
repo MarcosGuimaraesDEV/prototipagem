@@ -1,0 +1,7 @@
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\vendasProjeto.pdb
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\D3DCompiler_47_cor3.dll
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\PenImc_cor3.dll
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\PresentationNative_cor3.dll
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\vcruntime140_cor3.dll
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\wpfgfx_cor3.dll
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\bin\Release\net6.0-windows\publish\win-x86\vendasProjeto.exe

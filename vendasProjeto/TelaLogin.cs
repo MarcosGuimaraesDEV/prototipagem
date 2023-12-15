@@ -11,7 +11,7 @@ namespace vendasProjeto
         }
         private void BtnLogin_Click_1(object sender, EventArgs e)
         {
-            if (usuario.Text.ToUpper() =="marcos" && senha.Text == "1234" ) { 
+            if (usuario.Text.ToUpper() =="MARCOS" && senha.Text == "1234" ) { 
                 this.Close();
                 t1 = new Thread(abrirTelaInicial);
                 t1.SetApartmentState(ApartmentState.STA);

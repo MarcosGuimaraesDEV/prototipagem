@@ -1,0 +1,9 @@
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.Properties.Resources.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.TelaInicial.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.telaLogin.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.TelaVenda.resources
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.csproj.GenerateResource.cache
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.AssemblyInfoInputs.cache
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.AssemblyInfo.cs
+E:\Documentos\Projetos_desenvolvimento\cSharp\vendasProjeto\vendasProjeto\obj\Debug\netcoreapp3.1\vendasProjeto.csproj.CoreCompileInputs.cache
